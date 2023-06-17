@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MaxCountersKt">
+  <component name="RunManager" selected="Kotlin.MissingIntegerKt">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training.Test" />
       <module name="codility" />
@@ -61,15 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicRotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.CyclicRotationKt" />
+    <configuration name="MaxCountersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.MaxCountersKt" />
       <module name="codility" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxCountersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.MaxCountersKt" />
+    <configuration name="MissingIntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.MissingIntegerKt" />
       <module name="codility" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MissingIntegerKt" />
         <item itemvalue="Kotlin.MaxCountersKt" />
         <item itemvalue="Kotlin.BinaryGapKt" />
         <item itemvalue="Kotlin.OddOccurrencesInArrayKt" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Kotlin.CyclicRotationKt" />
       </list>
     </recent_temporary>
   </component>
