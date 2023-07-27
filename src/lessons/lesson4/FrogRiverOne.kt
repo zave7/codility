@@ -1,4 +1,4 @@
-package training
+package lessons.lesson4
 
 class FrogRiverOne {
     fun solution(X: Int, A: IntArray): Int {

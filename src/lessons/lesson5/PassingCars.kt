@@ -1,4 +1,4 @@
-package training.lesson5
+package lessons.lesson5
 
 class PassingCars {
     fun solution(A: IntArray): Int {

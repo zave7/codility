@@ -1,4 +1,4 @@
-package training
+package lessons.lesson4
 
 class MissingInteger {
     fun solution(A: IntArray): Int {

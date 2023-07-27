@@ -1,4 +1,4 @@
-package training
+package lessons.lesson2
 
 class OddOccurrencesInArray {
     fun solution(A: IntArray): Int {

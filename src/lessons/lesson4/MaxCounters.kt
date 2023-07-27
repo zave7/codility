@@ -1,4 +1,4 @@
-package training
+package lessons.lesson4
 
 class MaxCounters {
     fun solution(N: Int, A: IntArray): IntArray {

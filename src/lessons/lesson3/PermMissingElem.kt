@@ -1,4 +1,4 @@
-package training
+package lessons.lesson3
 
 class PermMissingElem {
     fun solution(A: IntArray): Int {

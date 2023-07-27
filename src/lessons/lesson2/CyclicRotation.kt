@@ -1,4 +1,4 @@
-package training
+package lessons.lesson2
 
 class CyclicRotation {
     fun solution(A: IntArray, K: Int): IntArray =

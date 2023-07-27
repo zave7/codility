@@ -1,4 +1,4 @@
-package training
+package lessons.lesson3
 
 import kotlin.math.abs
 

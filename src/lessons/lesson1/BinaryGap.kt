@@ -1,4 +1,4 @@
-package training
+package lessons.lesson1
 
 class BinaryGap {
     fun solution(N: Int): Int {
